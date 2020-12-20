@@ -1,0 +1,21 @@
+
+korea-project :
+  name: korea-project
+  description: False
+  cover: assets/built/images/korea-project.jpg
+
+japan-project :
+  name: japan-project
+  description: False
+  cover: assets/built/images/japan-project.jpg
+
+anglosphere-project :
+  name: anglosphere-project
+  description: False
+  cover: assets/built/images/anglosphere-project.jpg
+
+study-project :
+  name: study-project
+  description: False
+  cover: assets/built/images/study-logo.png
+

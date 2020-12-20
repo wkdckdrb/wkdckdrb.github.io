@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = http://github.com/wkdckdrb/wkdckdrb.github.io.git
