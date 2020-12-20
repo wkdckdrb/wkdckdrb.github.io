@@ -1,0 +1,2 @@
+# wkdckdrb.github.io
+blog
