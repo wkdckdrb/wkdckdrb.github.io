@@ -1,1 +1,1 @@
-깃허브 개인 포트폴리오 소스코드입니다.
+GitHub Personal Portfolio Source Code.
