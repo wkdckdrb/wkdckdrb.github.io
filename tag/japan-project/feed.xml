@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://wkdckdrb.github.io/tag/japan-project/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://wkdckdrb.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-12-21T10:20:23+09:00</updated>
+  <id>https://wkdckdrb.github.io/tag/japan-project/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Jang’s Portfolio | </title>
+  
+
+  
+    <subtitle>The site that introduces my career</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Test-jp</title>
+      <link href="https://wkdckdrb.github.io/jp-test" rel="alternate" type="text/html" title="Test-jp" />
+      <published>2020-12-02T11:52:00+09:00</published>
+      <updated>2020-12-02T11:52:00+09:00</updated>
+      <id>https://wkdckdrb.github.io/jp-test</id>
+      <content type="html" xml:base="https://wkdckdrb.github.io/jp-test">&lt;p&gt;이 글은 테스트용 페이지입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>wkdckdrb</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="japan-project" />
+      
+
+      
+        <summary type="html">이 글은 테스트용 페이지입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

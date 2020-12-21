@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://wkdckdrb.github.io/tag/study-project/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://wkdckdrb.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-12-21T10:20:23+09:00</updated>
+  <id>https://wkdckdrb.github.io/tag/study-project/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Jang’s Portfolio | </title>
+  
+
+  
+    <subtitle>The site that introduces my career</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">깃허브 홈페이지 프로젝트</title>
+      <link href="https://wkdckdrb.github.io/sp-rubyhomepage" rel="alternate" type="text/html" title="깃허브 홈페이지 프로젝트" />
+      <published>2020-12-02T11:52:00+09:00</published>
+      <updated>2020-12-02T11:52:00+09:00</updated>
+      <id>https://wkdckdrb.github.io/sp-rubyhomepage</id>
+      <content type="html" xml:base="https://wkdckdrb.github.io/sp-rubyhomepage">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./sp-rubyhomepage&quot;&gt;2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./sp-secret&quot;&gt;일기장 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;제작기간 : 2020-10-01 ~ 2020-11-03&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>wkdckdrb</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="study-project" />
+      
+
+      
+        <summary type="html">프로젝트 목록입니다. 2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트 일기장 홈페이지 프로젝트</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Test</title>
+      <link href="https://wkdckdrb.github.io/sp-secret" rel="alternate" type="text/html" title="Test" />
+      <published>2020-12-02T11:52:00+09:00</published>
+      <updated>2020-12-02T11:52:00+09:00</updated>
+      <id>https://wkdckdrb.github.io/sp-secret</id>
+      <content type="html" xml:base="https://wkdckdrb.github.io/sp-secret">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./sp-rubyhomepage&quot;&gt;2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./sp-secret&quot;&gt;일기장 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;b
+이 글은 테스트용 페이지입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>wkdckdrb</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="study-project" />
+      
+
+      
+        <summary type="html">프로젝트 목록입니다. 2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트 일기장 홈페이지 프로젝트 b 이 글은 테스트용 페이지입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
