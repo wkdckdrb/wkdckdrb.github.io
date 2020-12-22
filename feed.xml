@@ -1,10 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://wkdckdrb.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wkdckdrb.github.io/" rel="alternate" type="text/html" /><updated>2020-12-21T10:20:23+09:00</updated><id>https://wkdckdrb.github.io/</id><title type="html">Jang’s Portfolio</title><subtitle>The site that introduces my career</subtitle><entry><title type="html">Test</title><link href="https://wkdckdrb.github.io/sp-secret" rel="alternate" type="text/html" title="Test" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/sp-secret</id><content type="html" xml:base="https://wkdckdrb.github.io/sp-secret">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://wkdckdrb.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wkdckdrb.github.io/" rel="alternate" type="text/html" /><updated>2020-12-23T07:52:32+09:00</updated><id>https://wkdckdrb.github.io/</id><title type="html">Jang’s Portfolio</title><subtitle>The site that introduces my career</subtitle><entry><title type="html">Test</title><link href="https://wkdckdrb.github.io/sp-secret" rel="alternate" type="text/html" title="Test" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/sp-secret</id><content type="html" xml:base="https://wkdckdrb.github.io/sp-secret">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./sp-rubyhomepage&quot;&gt;2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./sp-secret&quot;&gt;일기장 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;b
-이 글은 테스트용 페이지입니다.&lt;/p&gt;</content><author><name>wkdckdrb</name></author><category term="study-project" /><summary type="html">프로젝트 목록입니다. 2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트 일기장 홈페이지 프로젝트 b 이 글은 테스트용 페이지입니다.</summary></entry><entry><title type="html">깃허브 홈페이지 프로젝트</title><link href="https://wkdckdrb.github.io/sp-rubyhomepage" rel="alternate" type="text/html" title="깃허브 홈페이지 프로젝트" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/sp-rubyhomepage</id><content type="html" xml:base="https://wkdckdrb.github.io/sp-rubyhomepage">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
+이 글은 테스트용 페이지입니다.&lt;/p&gt;
+
+&lt;noscript&gt;&lt;pre&gt;
+markdown: kramdown
+
+
+
+# MyData
+owner:
+  name:           ChangGyu Jang
+  avatar:         photo.jpg
+  email:          wkdckdgur34@gmail.com
+
+  #github:wkdckdrb
+  # instagram:trip_savedata
+ # tistory : 
+
+highlighter: rouge
+# text highlighter로 rouge이용
+# 2016.02월 이후로 syntax highlighter는 rouge만 지원.
+# Pygments 사용불가.
+
+paginate: 10
+
+
+language: &amp;#39;en-uk&amp;#39;
+# 언어 설정
+
+url: https://wkdckdrb.github.io
+asset_url: /assets
+
+baseurl: /
+
+title: Jang&amp;#39;s Portfolio
+
+
+description: The site that introduces my career
+
+
+cover: assets/built/images/blog-cover1.jpg
+# blog home에 표시될 blog cover image.
+
+favicon: assets/built/images/favicon.ico
+
+production_url: https://wkdckdrb.github.io/
+
+source_url: 
+
+# Social info
+navigation: True
+
+
+subscribers: True
+
+
+permalink: /:title
+
+
+plugins: [jekyll-paginate, jekyll-feed, jekyll-gist]
+
+feed:
+  path: feed.xml
+
+safe: False
+lsi: False
+
+username: wkdckdrb
+repo: GitHubPageMaker
+
+
+branch: master
+
+
+relative_source:
+
+destination: ../[GitHubPage]/
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - &amp;quot;*.Rmd&amp;quot;
+  - vendor
+  - .travis.yml
+  - node_modules
+  - _posts/angular
+  - _posts/et-cetera
+#  - _posts/python
+  - _posts/typescript
+#  - _posts/jekyll
+  - _posts/iot
+  - _posts/r
+  - _posts/economy
+&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/wkdckdrb/dc5be89b1f01f53171afbb8393915b7c.js&quot;&gt; &lt;/script&gt;</content><author><name>wkdckdrb</name></author><category term="study-project" /><summary type="html">프로젝트 목록입니다. 2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트 일기장 홈페이지 프로젝트 b 이 글은 테스트용 페이지입니다.</summary></entry><entry><title type="html">깃허브 홈페이지 프로젝트</title><link href="https://wkdckdrb.github.io/sp-rubyhomepage" rel="alternate" type="text/html" title="깃허브 홈페이지 프로젝트" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/sp-rubyhomepage</id><content type="html" xml:base="https://wkdckdrb.github.io/sp-rubyhomepage">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./sp-rubyhomepage&quot;&gt;2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./sp-secret&quot;&gt;일기장 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
