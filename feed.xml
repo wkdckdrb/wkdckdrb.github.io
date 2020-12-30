@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://wkdckdrb.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wkdckdrb.github.io/" rel="alternate" type="text/html" /><updated>2020-12-23T11:00:57+09:00</updated><id>https://wkdckdrb.github.io/</id><title type="html">Jang’s Portfolio</title><subtitle>The site that introduces my career</subtitle><entry><title type="html">Test</title><link href="https://wkdckdrb.github.io/sp-secret" rel="alternate" type="text/html" title="Test" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/sp-secret</id><content type="html" xml:base="https://wkdckdrb.github.io/sp-secret">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://wkdckdrb.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wkdckdrb.github.io/" rel="alternate" type="text/html" /><updated>2020-12-31T07:54:39+09:00</updated><id>https://wkdckdrb.github.io/</id><title type="html">Jang’s Portfolio</title><subtitle>The site that introduces my career</subtitle><entry><title type="html">Test</title><link href="https://wkdckdrb.github.io/sp-secret" rel="alternate" type="text/html" title="Test" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/sp-secret</id><content type="html" xml:base="https://wkdckdrb.github.io/sp-secret">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./sp-rubyhomepage&quot;&gt;2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./sp-secret&quot;&gt;일기장 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
@@ -100,13 +100,51 @@ exclude:
   - _posts/r
   - _posts/economy
 &lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/wkdckdrb/dc5be89b1f01f53171afbb8393915b7c.js&quot;&gt; &lt;/script&gt;</content><author><name>wkdckdrb</name></author><category term="study-project" /><summary type="html">프로젝트 목록입니다. 2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트 일기장 홈페이지 프로젝트 b 이 글은 테스트용 페이지입니다.</summary></entry><entry><title type="html">깃허브 홈페이지 프로젝트</title><link href="https://wkdckdrb.github.io/sp-rubyhomepage" rel="alternate" type="text/html" title="깃허브 홈페이지 프로젝트" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/sp-rubyhomepage</id><content type="html" xml:base="https://wkdckdrb.github.io/sp-rubyhomepage">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/wkdckdrb/dc5be89b1f01f53171afbb8393915b7c.js&quot;&gt; &lt;/script&gt;</content><author><name>wkdckdrb</name></author><category term="study-project" /><summary type="html">프로젝트 목록입니다. 2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트 일기장 홈페이지 프로젝트 b 이 글은 테스트용 페이지입니다.</summary></entry><entry><title type="html">깃허브 홈페이지 프로젝트[개인]</title><link href="https://wkdckdrb.github.io/sp-rubyhomepage" rel="alternate" type="text/html" title="깃허브 홈페이지 프로젝트[개인]" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/sp-rubyhomepage</id><content type="html" xml:base="https://wkdckdrb.github.io/sp-rubyhomepage">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;프로젝트 목록입니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./sp-rubyhomepage&quot;&gt;2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./sp-secret&quot;&gt;일기장 홈페이지 프로젝트&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;제작기간 : 2020-10-01 ~ 2020-11-03&lt;/p&gt;</content><author><name>wkdckdrb</name></author><category term="study-project" /><summary type="html">프로젝트 목록입니다. 2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트 일기장 홈페이지 프로젝트</summary></entry><entry><title type="html">Test1</title><link href="https://wkdckdrb.github.io/kp-ruby" rel="alternate" type="text/html" title="Test1" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/kp-ruby</id><content type="html" xml:base="https://wkdckdrb.github.io/kp-ruby">&lt;p&gt;이 글은 테스트용 페이지입니다.&lt;/p&gt;
+&lt;center&gt;  프로젝트 설명 &lt;/center&gt;
+&lt;text-center&gt;언제든 나의 이력과 포트폴리오 자료를 볼 수 있고 소개할 수 있는 사이트가 필요했기에 만든 프로젝트&lt;/text-center&gt;
+&lt;hr /&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://github.com/wkdckdrb/wkdckdrb.github.io&quot; target=&quot;_blank&quot;&gt;소스코드링크&lt;/a&gt; &lt;/center&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;● 제작기간 : 2020-10-01 ~ 2020-11-03&lt;/p&gt;
+
+&lt;h2 id=&quot;-사용-기술-및-사용-툴--ruby-jekyllframework--css--markdown--html--vscd&quot;&gt;● 사용 기술 및 사용 툴 : RUBY-Jekyll(Framework) / CSS / markdown / HTML / VSCD&lt;/h2&gt;
+&lt;center&gt;  기술적인 포인트 &lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Search 기능 추가&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Github Gist 활용&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;블로그의 단위 코드를 보기좋게 만들어 주기 위해 syntax highlighting 추가&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;모든 글들을 시간 순서대로 보기 위해 Archive설정&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/blogPort/1.png&quot; alt=&quot;A&quot; /&gt;
+&lt;img src=&quot;assets/built/images/blogPort/2.png&quot; alt=&quot;B&quot; /&gt;
+&lt;img src=&quot;assets/built/images/blogPort/3.gif&quot; alt=&quot;C&quot; /&gt;
+&lt;img src=&quot;assets/built/images/blogPort/4.png&quot; alt=&quot;D&quot; /&gt;
+&lt;img src=&quot;assets/built/images/blogPort/5.png&quot; alt=&quot;E&quot; /&gt;
+&lt;img src=&quot;assets/built/images/blogPort/6.png&quot; alt=&quot;F&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>wkdckdrb</name></author><category term="study-project" /><summary type="html">프로젝트 목록입니다. 2020-10-01 ~ 2020-11-03 깃허브 홈페이지 프로젝트 일기장 홈페이지 프로젝트</summary></entry><entry><title type="html">Test1</title><link href="https://wkdckdrb.github.io/kp-ruby" rel="alternate" type="text/html" title="Test1" /><published>2020-12-02T11:52:00+09:00</published><updated>2020-12-02T11:52:00+09:00</updated><id>https://wkdckdrb.github.io/kp-ruby</id><content type="html" xml:base="https://wkdckdrb.github.io/kp-ruby">&lt;p&gt;이 글은 테스트용 페이지입니다.&lt;/p&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;syntaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Hello World'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
