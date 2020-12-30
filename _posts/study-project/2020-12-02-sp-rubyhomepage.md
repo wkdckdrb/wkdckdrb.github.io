@@ -24,6 +24,7 @@ author: wkdckdrb
 ● 제작기간 : 2020-10-01 ~ 2020-11-03
 
 ● 사용 기술 및 사용 툴 : RUBY-Jekyll(Framework) / CSS / markdown / HTML / VSCD
+
 ------
 
 <center>  기술적인 포인트 </center>
