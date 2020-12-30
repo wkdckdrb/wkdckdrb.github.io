@@ -19,14 +19,13 @@ author: wkdckdrb
 ------
 
 <center><a href="https://github.com/wkdckdrb/wkdckdrb.github.io" target="_blank">소스코드링크</a> </center>
-
 ------
-
 
 ● 제작기간 : 2020-10-01 ~ 2020-11-03
 
 ● 사용 기술 및 사용 툴 : RUBY-Jekyll(Framework) / CSS / markdown / HTML / VSCD
 ------
+
 <center>  기술적인 포인트 </center>
  
 + Search 기능 추가
@@ -36,7 +35,6 @@ author: wkdckdrb
 + 블로그의 단위 코드를 보기좋게 만들어 주기 위해 syntax highlighting 추가
 
 + 모든 글들을 시간 순서대로 보기 위해 Archive설정
-
 
 ------
 
